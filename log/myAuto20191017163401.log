@@ -1,0 +1,3 @@
+2019-10-17 16:34:01,576 INFO [root] [UserAPI.py(login:13)] - 执行登录操作
+2019-10-17 16:34:02,066 INFO [root] [TestIHRMEmploye.py(test_emp_delete:60)] - '操作成功' not found in '抱歉，系统繁忙，请稍后重试！'
+2019-10-17 16:34:02,066 INFO [root] [TestIHRMEmploye.py(test_emp_delete:60)] - '操作成功' not found in '抱歉，系统繁忙，请稍后重试！'

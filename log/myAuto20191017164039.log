@@ -1,0 +1,3 @@
+2019-10-17 16:40:39,677 INFO [root] [UserAPI.py(login:13)] - 执行登录操作
+2019-10-17 16:40:39,867 INFO [root] [TestIHRMEmploye.py(test_emp_delete:61)] - must be str, not method
+2019-10-17 16:40:39,867 INFO [root] [TestIHRMEmploye.py(test_emp_delete:61)] - must be str, not method
